@@ -5,9 +5,9 @@
         "locale_name": "Polish",
         "locale_type": "pl_PL",
         "locale_last_updated": "2021-09-15 12:00:00 UTC",
-        "locale_author_name": "Gargamelxp",
-        "locale_author_email": "Gargamelxp@seznam.cz",
-        "locale_source_url": "https://raw.githubusercontent.com/Gargamelxp/feedbro-locale/master/feedbro-locale-cs_CS.json"
+        "locale_author_name": "Bartosz2010",
+        "locale_author_email": "Bartosz.2010@wp.pl",
+        "locale_source_url": "https://raw.githubusercontent.com/Bartosz2010/Projekty/main/feedbro-locale-pl_PL.json"
     },
     "addfeed_url_body": "URL Zdroje",
     "addfeed_load_body": "Načíst",

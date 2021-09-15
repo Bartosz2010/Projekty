@@ -16,7 +16,7 @@
     "addfeed_status_body": "Status",
     "addfeed_maxitems_body": "Maksymalna liczba wpisów do zapisania",
     "addfeed_maxitems_select_title": "Maksymalna liczba wpisów (artykułów), które są zapisywane z jednego kanału. Najstarsze wpisy są automatycznie usuwane.",
-    "addfeed_maxitems_default_body": "domyślny",
+    "addfeed_maxitems_default_body": "domyślna",
     "addfeed_entrycontent_body": "Treść wpisu kanału",
     "addfeed_entrycontent_select_title": "Definujte, jak zpracovat obsah položky zdroje",
     "addfeed_entrycontent_select_asis_body": "Jak je definováno zdrojem",

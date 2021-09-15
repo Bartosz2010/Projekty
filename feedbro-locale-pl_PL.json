@@ -4,7 +4,7 @@
         "locale_version": "1.0",
         "locale_name": "Polish",
         "locale_type": "pl_PL",
-        "locale_last_updated": "2019-10-18 12:00:00 UTC",
+        "locale_last_updated": "2021-09-15 12:00:00 UTC",
         "locale_author_name": "Nodetics",
         "locale_author_email": "nodetics@gmail.com",
         "locale_source_url": "https://nodetics.com/feedbro/"
@@ -233,7 +233,7 @@
     "options_bookmarks_body": "Bookmarks",
     "options_importbookmarks_body": "Import Firefox Bookmarks (as HTML)",
     "options_settings_body": "Settings",
-    "options_theme_body": "Theme",
+    "options_theme_body": "Motyw",
     "options_theme_select_title": "Color theme for the Feedbro user interface",
     "options_locale_body": "User interface language",
     "options_action_import_locale_body": "Import Locale",
